@@ -1,4 +1,4 @@
-# Author: SCT (AMDG) 1/25/12
+# Author: SCT (AMDG) 1/25/22
 
 last_initials = ["B", "D", "H", "E", "G", "G", "H", "R", "M", "L", "I", "I", "N", "N", "O", "P", "P", "X", "T", "S", "S", "P"]
 # List of initals and rows to be combined

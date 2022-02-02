@@ -1,4 +1,4 @@
-# Author: SCT (AMDG) 1/25/12
+# Author: SCT (AMDG) 1/25/22
 
 def smash(lst): # Defines function
     sentence = "" # Creates empty string to add inputs to for final result
